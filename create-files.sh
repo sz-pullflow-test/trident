@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir test-dir
+mkdir test-dir-1
 for (( i=0; i<25; i++ ))
     do
         touch test-dir/test-${i}.txt
