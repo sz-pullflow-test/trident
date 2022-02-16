@@ -1,8 +1,8 @@
 #!/bin/bash
 
-mkdir test-dir
+mkdir $1
 for (( i=0; i<25; i++ ))
     do
-        touch test-dir/test-${i}.txt
+        touch $1/test-${i}.txt
         git add -A && git commit -m "new file test-${i}.txt"
     done
