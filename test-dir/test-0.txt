@@ -1,2 +1,3 @@
 print("multispace testing..")
 print("multispace testing Preflight 0.8.1..")
+print("Trident Testing GitHub Verifications 0.8.4")
