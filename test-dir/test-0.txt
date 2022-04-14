@@ -9,3 +9,4 @@ print("Trident Testing GitHub Verifications 0.8.6")
 Trident Test 1
 Trident Test 2
 Trident Test 3
+Trident Test 4
