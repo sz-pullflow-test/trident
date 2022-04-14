@@ -7,3 +7,4 @@ print("Trident Testing GitHub Verifications 0.8.5.1")
 print("Trident Testing GitHub Verifications 0.8.5.2")
 print("Trident Testing GitHub Verifications 0.8.6")
 Trident Test 1
+Trident Test 2
